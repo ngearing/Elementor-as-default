@@ -4,6 +4,9 @@
  * Plugin Name: Elementor as Default Editor
  * Description: Make Elementor the default editor for all pages and posts.
  * Version: 1.0
+ * Plugin URI: https://github.com/ngearing/Elementor-as-default
+ * Author: Ngearing
+ * Author URI: https://github.com/ngearing
  * Text Domain: ead
  * Plugins: elementor
  */
